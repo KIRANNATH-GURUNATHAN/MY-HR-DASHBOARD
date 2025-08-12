@@ -2,7 +2,7 @@
 
 **Author:** Kiran Guru  
 **Tools Used:** Power BI, DAX, Excel  
-**File:** [Kiran's_HR_Analytics_Dashboard.pbix](https://github.com/your-username/HR-Dashboard-PowerBI/blob/main/HR_Dashboard.pbix)
+**File:** [Kiran's_HR_Analytics_Dashboard.pbix](https://github.com/KIRANNATH-GURUNATHAN/MY-HR-DASHBOARD/blob/3e157b9a2cdc36cee90141e25685ab8f2159c105/KIRAN'S%20HRDASH%20BOARD.pbix)
 
 ---
 
