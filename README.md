@@ -30,16 +30,5 @@ This dashboard provides **insights into employee demographics, attrition rates, 
  ├── 📄 SampleData.csv              
  └── 📄 LICENSE
 
-## 📜 License
-**This project is licensed under the MIT License — feel free to use and modify with attribution.**
-
-👤 Author
-Kiran Guru
-📧 Email: kiranguru1205@gmail.com
-💼 GitHub: Your GitHub Profile
-
-yaml
-Copy
-Edit
               
 
