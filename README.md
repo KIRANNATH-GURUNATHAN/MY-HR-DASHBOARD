@@ -57,8 +57,8 @@ Unlike generic HR reports, this dashboard:
 
 ## 📌 Sample Visual Preview
 
-![Dashboard Preview](screenshot1.png)  
-![Dashboard Preview](screenshot2.png)
+![Dashboard Preview](https://github.com/KIRANNATH-GURUNATHAN/MY-HR-DASHBOARD/blob/9c1f29deec69a6908fece195e36bb2eb5a3e34d2/Screenshot%202025-08-12%20102527.png )  
+![Dashboard Preview](https://github.com/KIRANNATH-GURUNATHAN/MY-HR-DASHBOARD/blob/9c1f29deec69a6908fece195e36bb2eb5a3e34d2/Screenshot%202025-08-12%20102713.png)
 
 ---
 
